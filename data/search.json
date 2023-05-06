@@ -23,7 +23,7 @@
   },
   {
     "name": "必应",
-    "url": "https://cn.bing.com/search?q=",
+    "url": "https://www.bing.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
     "blocked": false,
     "isInner": false
